@@ -2,7 +2,7 @@
    <h1>Welcome to my github! 👋</h1>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toshiven&show_icons=true&theme=tokyonight)](https://github.com/Toshiven/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toshiven&show_icons=true)](https://github.com/Toshiven/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toshiven&show_icons=true&theme=tokyonight)
 
 <!--
