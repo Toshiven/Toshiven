@@ -2,7 +2,6 @@
    <h1>Welcome to my github! 👋</h1>
 </div>
 
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={Toshiven}&theme={transparent}&exclude={exclude}
 
 <!--
 **Toshiven/Toshiven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
