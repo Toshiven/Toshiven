@@ -4,14 +4,13 @@
 </div>
 <br>
 
+<div align="center">
 ![](https://komarev.com/ghpvc/?username=Toshiven&color=blue)
+</div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/andrew-abler-1323132a5/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:kevin.abler19@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail Badge"/>
   </a>
 </div>
 
