@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,nodejs,figma,html,css,svelte,github,neovim&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,nodejs,html,css,svelte,mongodb,git,github,neovim,vim,discord,figma&theme=dark)](https://skillicons.dev)
 
 
 📈 Stats
