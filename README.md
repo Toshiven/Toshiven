@@ -1,7 +1,7 @@
 <div id="header" align="center">
    <h1>Welcome to my github! 👋</h1>
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toshiven&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 
 <!--
