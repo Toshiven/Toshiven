@@ -1,7 +1,9 @@
 📈 Stats
+<br>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Toshiven&show_icons=true&theme=tokyonight)
 
 🔝 Most Used Languages
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toshiven&layout=compact&show_icons=true&theme=tokyonight)
 
 <!--
