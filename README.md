@@ -1,4 +1,4 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Toshiven)
+<div style="text-align: center;"> ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Toshiven) </div>
 
 <!--
 **Toshiven/Toshiven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
