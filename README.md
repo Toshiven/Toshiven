@@ -1,7 +1,20 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1> Hello there! 👋🏻 </h1>
+  <h1> Hi there! 👋🏻 </h1>
 </div>
+<br>
+
+![](https://komarev.com/ghpvc/?username=Toshiven&color=blue)
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/andrew-abler-1323132a5/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:kevin.abler19@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail Badge"/>
+  </a>
+</div>
+
 <hr>
 
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,nodejs,html,css,svelte,mongodb,git,github,neovim,vim,discord,figma&theme=dark)](https://skillicons.dev)
