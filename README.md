@@ -4,9 +4,9 @@
 </div>
 <br>
 
-<div align="center">
+
 ![](https://komarev.com/ghpvc/?username=Toshiven&color=blue)
-</div>
+
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/andrew-abler-1323132a5/">
