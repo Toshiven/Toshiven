@@ -1,8 +1,4 @@
-<div id="header" align="center">
-   <h1>Welcome to my github! 👋</h1>
-</div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Toshiven)
 
 <!--
 **Toshiven/Toshiven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
