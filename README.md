@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,nodejs,html,css,svelte,mongodb,git,github,neovim,vim,discord,figma&theme=dark)](https://skillicons.dev)
 
 
