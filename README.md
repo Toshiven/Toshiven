@@ -24,7 +24,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toshiven&layout=compact&show_icons=true&theme=tokyonight)
 
+✨ Streaks
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Toshiven&theme=tokyonight)](https://git.io/streak-stats)
 
 <!--
 **Toshiven/Toshiven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
