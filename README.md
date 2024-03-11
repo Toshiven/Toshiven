@@ -16,6 +16,8 @@
 
 ![](https://komarev.com/ghpvc/?username=Toshiven&color=blue)
 
+<br>
+
 📈 Stats
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Toshiven&show_icons=true&theme=tokyonight)
