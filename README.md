@@ -26,7 +26,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toshiven&layout=compact&show_icons=true&theme=tokyonight)
 
-✨ Streaks
+✨ Streaks 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Toshiven&theme=tokyonight)](https://git.io/streak-stats)
 
