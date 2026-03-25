@@ -22,6 +22,11 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Toshiven&show_icons=true&theme=tokyonight)
 
+⏱️ Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 🔝 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toshiven&layout=compact&show_icons=true&theme=tokyonight)
