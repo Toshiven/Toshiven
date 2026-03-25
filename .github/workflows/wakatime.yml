@@ -2,36 +2,15 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: "0 0 * * *" # runs daily
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
   workflow_dispatch:
-
 jobs:
   update-readme:
-    name: Update README
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
-
-      # 🔹 Debug WakaTime API
-      - name: Debug WakaTime
-        run: |
-          curl -H "Authorization: Bearer ${{ secrets.WAKATIME_API_KEY }}" \
-          https://wakatime.com/api/v1/users/current/stats/last_7_days
-
-      - name: Update WakaTime Stats
-        uses: anmol098/waka-readme-stats@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-          SHOW_LANGUAGE: true
-          SHOW_PROJECTS: false
-
-      - name: Commit changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "Update WakaTime stats" || echo "No changes to commit"
-          git push
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
