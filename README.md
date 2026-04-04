@@ -12,7 +12,7 @@
 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,typescript,nodejs,html,css,svelte,mongodb,git,github,neovim,vim,discord,figma,dart,flutter&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,python,gdscript,java,javascript,typescript,nodejs,html,css,svelte,mongodb,git,github,neovim,vim,discord,figma,dart,flutter&theme=dark)](https://skillicons.dev)
 
 <br>
 
