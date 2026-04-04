@@ -14,8 +14,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,typescript,nodejs,html,css,svelte,mongodb,git,github,neovim,vim,discord,figma,dart,flutter&theme=dark)](https://skillicons.dev)
 
-![](https://komarev.com/ghpvc/?username=Toshiven&color=blue)
-
 <br>
 
 <!--START_SECTION:waka-->
