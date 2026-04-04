@@ -18,11 +18,6 @@
 
 <br>
 
-📈 Stats
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Toshiven&show_icons=true&theme=tokyonight)
-
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-624%20hrs%2038%20mins-blue?style=flat)
 
@@ -106,14 +101,6 @@ Dart                     1 repo              █░░░░░░░░░░�
 
  Last Updated on 04/04/2026 23:46:15 UTC
 <!--END_SECTION:waka-->
-
-🔝 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toshiven&layout=compact&show_icons=true&theme=tokyonight)
-
-✨ Streaks 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Toshiven&theme=tokyonight)](https://git.io/streak-stats)
 
 <!--
 **Toshiven/Toshiven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
