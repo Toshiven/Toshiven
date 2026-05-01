@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-636%20hrs%209%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -60,21 +60,16 @@ Sunday                   95 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-CSV                      34 mins             ██████████░░░░░░░░░░░░░░░   42.00 % 
-Python                   28 mins             █████████░░░░░░░░░░░░░░░░   35.49 % 
-GDScript3                12 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-hyprlang                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   1 hr 21 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 8 mins         █████████████████████░░░░   84.42 % 
-guran-strider            12 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 21 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -94,7 +89,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Toshiven/Toshiven/main/assets/bar_graph.png)
 
 
- Last Updated on 30/04/2026 19:56:23 UTC
+ Last Updated on 01/05/2026 19:47:42 UTC
 <!--END_SECTION:waka-->
 
 <!--
