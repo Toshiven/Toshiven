@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-637%20hrs%2022%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -60,16 +60,19 @@ Sunday                   95 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+GDScript3                0 secs              █████████████░░░░░░░░░░░░   53.66 % 
+Go                       0 secs              ███████░░░░░░░░░░░░░░░░░░   26.83 % 
+Other                    0 secs              █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+guran-strider            0 secs              ███████████████░░░░░░░░░░   60.98 % 
+u1st-backend             0 secs              ██████████░░░░░░░░░░░░░░░   39.02 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -89,7 +92,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Toshiven/Toshiven/main/assets/bar_graph.png)
 
 
- Last Updated on 13/05/2026 20:17:45 UTC
+ Last Updated on 14/05/2026 20:14:03 UTC
 <!--END_SECTION:waka-->
 
 <!--
