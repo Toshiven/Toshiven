@@ -60,20 +60,16 @@ Sunday                   95 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-GDScript                 12 mins             ███████████░░░░░░░░░░░░░░   42.61 % 
-Other                    10 mins             █████████░░░░░░░░░░░░░░░░   37.32 % 
-jsonc                    5 mins              █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-guran-strider            12 mins             ███████████░░░░░░░░░░░░░░   42.61 % 
-Unknown Project          10 mins             █████████░░░░░░░░░░░░░░░░   37.32 % 
-waybar                   5 mins              █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -93,7 +89,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Toshiven/Toshiven/main/assets/bar_graph.png)
 
 
- Last Updated on 13/06/2026 20:00:52 UTC
+ Last Updated on 14/06/2026 20:06:19 UTC
 <!--END_SECTION:waka-->
 
 <!--
