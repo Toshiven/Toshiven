@@ -23,36 +23,16 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-**🐱 My GitHub Data** 
-
-> 📦 64.1 kB Used in GitHub's Storage 
- > 
-> 🏆 23 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 23 Public Repositories 
- > 
-> 🔑 10 Private Repositories 
- > 
-**I'm an Early 🐤** 
+📅 **I'm Most Productive on Saturday** 
 
 ```text
-🌞 Morning                30 commits          ████████░░░░░░░░░░░░░░░░░   30.93 % 
-🌆 Daytime                48 commits          ████████████░░░░░░░░░░░░░   49.48 % 
-🌃 Evening                16 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-🌙 Night                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-Tuesday                  21 commits          █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
-Wednesday                18 commits          █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
-Thursday                 28 commits          ███████░░░░░░░░░░░░░░░░░░   28.87 % 
-Friday                   8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-Saturday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-Sunday                   12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Monday                   63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Tuesday                  62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Wednesday                59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+Thursday                 74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Friday                   52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+Saturday                 145 commits         ███████░░░░░░░░░░░░░░░░░░   26.36 % 
+Sunday                   95 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
 ```
 
 
@@ -72,13 +52,6 @@ Markdown                 1 min               ░░░░░░░░░░░�
 Neovim                   1 hr 31 mins        ██████████████████░░░░░░░   71.95 % 
 VS Code                  35 mins             ███████░░░░░░░░░░░░░░░░░░   28.05 % 
 
-🐱‍💻 Projects: 
-Unknown Project          1 hr 24 mins        ████████████████░░░░░░░░░   65.92 % 
-C_C++                    35 mins             ███████░░░░░░░░░░░░░░░░░░   28.05 % 
-md5                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-airi                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-waybar                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-
 💻 Operating System: 
 Linux                    1 hr 31 mins        ██████████████████░░░░░░░   71.95 % 
 Windows                  35 mins             ███████░░░░░░░░░░░░░░░░░░   28.05 % 
@@ -90,24 +63,8 @@ Windows                  35 mins             ███████░░░░�
 No AI Coding Activity Tracked This Week
 ```
 
-**I Mostly Code in Java** 
 
-```text
-Java                     3 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-GDScript                 2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-TypeScript               2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Dart                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Toshiven/Toshiven/main/assets/bar_graph.png)
-
-
- Last Updated on 06/10/2026 13:38:01 UTC
+ Last Updated on 06/10/2026 13:43:48 UTC
 <!--END_SECTION:waka-->
 
 <!--
