@@ -27,5 +27,4 @@ jobs:
           SHOW_LOC_CHART: True
           LOCALE: en
           
-          MAX_REPOS: 5
-          IGNORED_REPOS: "old-project-1, legacy-repo-2"
+          MAX_REPOS: 10
