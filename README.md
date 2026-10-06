@@ -27,7 +27,7 @@
 
 > 📦 64.1 kB Used in GitHub's Storage 
  > 
-> 🏆 23 Contributions in the Year 2026
+> 🏆 25 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -38,21 +38,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                109 commits         █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
-🌆 Daytime                205 commits         █████████░░░░░░░░░░░░░░░░   37.48 % 
-🌃 Evening                209 commits         ██████████░░░░░░░░░░░░░░░   38.21 % 
-🌙 Night                  24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+🌞 Morning                28 commits          █████████░░░░░░░░░░░░░░░░   35.00 % 
+🌆 Daytime                45 commits          ██████████████░░░░░░░░░░░   56.25 % 
+🌃 Evening                7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-Tuesday                  59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-Wednesday                59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-Thursday                 74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Friday                   52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-Saturday                 145 commits         ███████░░░░░░░░░░░░░░░░░░   26.51 % 
-Sunday                   95 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+Monday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Tuesday                  18 commits          ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+Wednesday                15 commits          █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Thursday                 26 commits          ████████░░░░░░░░░░░░░░░░░   32.50 % 
+Friday                   7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
 ```
 
 
@@ -72,6 +72,13 @@ Markdown                 1 min               ░░░░░░░░░░░�
 Neovim                   1 hr 31 mins        ██████████████████░░░░░░░   71.95 % 
 VS Code                  35 mins             ███████░░░░░░░░░░░░░░░░░░   28.05 % 
 
+🐱‍💻 Projects: 
+Unknown Project          1 hr 24 mins        ████████████████░░░░░░░░░   65.92 % 
+C_C++                    35 mins             ███████░░░░░░░░░░░░░░░░░░   28.05 % 
+md5                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+airi                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+waybar                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+
 💻 Operating System: 
 Linux                    1 hr 31 mins        ██████████████████░░░░░░░   71.95 % 
 Windows                  35 mins             ███████░░░░░░░░░░░░░░░░░░   28.05 % 
@@ -83,14 +90,12 @@ Windows                  35 mins             ███████░░░░�
 No AI Coding Activity Tracked This Week
 ```
 
-**I Mostly Code in Java** 
+**I Mostly Code in GDScript** 
 
 ```text
-Java                     7 repos             ███████░░░░░░░░░░░░░░░░░░   26.92 % 
-JavaScript               6 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-GDScript                 2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+GDScript                 2 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
+TypeScript               2 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
+Dart                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
 ```
 
 
@@ -100,7 +105,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Toshiven/Toshiven/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2026 13:25:24 UTC
+ Last Updated on 06/10/2026 13:34:41 UTC
 <!--END_SECTION:waka-->
 
 <!--
