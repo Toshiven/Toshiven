@@ -38,21 +38,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                109 commits         █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
-🌆 Daytime                205 commits         █████████░░░░░░░░░░░░░░░░   37.55 % 
-🌃 Evening                208 commits         ██████████░░░░░░░░░░░░░░░   38.10 % 
-🌙 Night                  24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+🌞 Morning                109 commits         █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
+🌆 Daytime                205 commits         █████████░░░░░░░░░░░░░░░░   37.48 % 
+🌃 Evening                209 commits         ██████████░░░░░░░░░░░░░░░   38.21 % 
+🌙 Night                  24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Tuesday                  58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Wednesday                59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-Thursday                 74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-Friday                   52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Saturday                 145 commits         ███████░░░░░░░░░░░░░░░░░░   26.56 % 
-Sunday                   95 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+Monday                   63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Tuesday                  59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Wednesday                59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Thursday                 74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Friday                   52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+Saturday                 145 commits         ███████░░░░░░░░░░░░░░░░░░   26.51 % 
+Sunday                   95 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
 ```
 
 
@@ -71,13 +71,6 @@ Markdown                 1 min               ░░░░░░░░░░░�
 🔥 Editors: 
 Neovim                   1 hr 31 mins        ██████████████████░░░░░░░   71.95 % 
 VS Code                  35 mins             ███████░░░░░░░░░░░░░░░░░░   28.05 % 
-
-🐱‍💻 Projects: 
-Unknown Project          1 hr 24 mins        ████████████████░░░░░░░░░   65.92 % 
-C_C++                    35 mins             ███████░░░░░░░░░░░░░░░░░░   28.05 % 
-md5                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-airi                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-waybar                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 💻 Operating System: 
 Linux                    1 hr 31 mins        ██████████████████░░░░░░░   71.95 % 
@@ -107,7 +100,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Toshiven/Toshiven/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2026 13:17:43 UTC
+ Last Updated on 06/10/2026 13:25:24 UTC
 <!--END_SECTION:waka-->
 
 <!--
