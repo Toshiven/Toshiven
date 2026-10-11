@@ -17,7 +17,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-630%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-630%20hrs%2015%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%209%20mins-blue?style=flat)
 
@@ -42,19 +42,19 @@ Sunday                   95 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-C                        1 hr 34 mins        ████████████░░░░░░░░░░░░░   48.05 % 
-C++                      1 hr 32 mins        ████████████░░░░░░░░░░░░░   47.04 % 
-hyprlang                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+C++                      1 hr 32 mins        █████████████░░░░░░░░░░░░   53.97 % 
+C                        58 mins             █████████░░░░░░░░░░░░░░░░   34.21 % 
+hyprlang                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+PowerShell               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Python                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 40 mins       ████████████████████░░░░░   81.77 % 
-VS Code                  35 mins             █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
+Neovim                   2 hrs 40 mins       ███████████████████████░░   93.81 % 
+VS Code                  10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
 
 💻 Operating System: 
-Linux                    2 hrs 40 mins       ████████████████████░░░░░   81.77 % 
-Windows                  35 mins             █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
+Linux                    2 hrs 40 mins       ███████████████████████░░   93.81 % 
+Windows                  10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -64,7 +64,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 10/10/2026 21:55:48 UTC
+ Last Updated on 11/10/2026 22:16:50 UTC
 <!--END_SECTION:waka-->
 
 <!--
