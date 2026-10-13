@@ -42,19 +42,18 @@ Sunday                   95 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-C++                      1 hr 32 mins        █████████████░░░░░░░░░░░░   53.97 % 
-C                        58 mins             █████████░░░░░░░░░░░░░░░░   34.21 % 
-hyprlang                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-PowerShell               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-Python                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+C++                      1 hr 8 mins         ██████████████████████░░░   86.51 % 
+PowerShell               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+Python                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 40 mins       ███████████████████████░░   93.81 % 
-VS Code                  10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Neovim                   1 hr 8 mins         ██████████████████████░░░   86.65 % 
+VS Code                  10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
 
 💻 Operating System: 
-Linux                    2 hrs 40 mins       ███████████████████████░░   93.81 % 
-Windows                  10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Linux                    1 hr 8 mins         ██████████████████████░░░   86.65 % 
+Windows                  10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -64,7 +63,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 11/10/2026 22:16:50 UTC
+ Last Updated on 13/10/2026 00:54:53 UTC
 <!--END_SECTION:waka-->
 
 <!--
