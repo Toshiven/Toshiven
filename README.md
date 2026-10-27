@@ -42,16 +42,13 @@ Sunday                   95 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-C                        2 mins              ████████████████████████░   97.26 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+C                        2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  2 mins              ████████████████████████░   97.26 % 
-Neovim                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 mins              ████████████████████████░   97.26 % 
-Linux                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -61,7 +58,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 26/10/2026 22:50:12 UTC
+ Last Updated on 27/10/2026 22:29:28 UTC
 <!--END_SECTION:waka-->
 
 <!--
